@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guydmello&label=Profile%20views&color=0e75b6&style=flat" alt="guydmello" /> </p>
 
-- 🔭 I’m currently working on [RainMan](https://github.com/guydmello/RainMan)
+- 🔭 I’m currently working on [Guydle](https://github.com/guydmello/Guydle)
 
 - 🌱 I’m currently learning **SQL**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/guydmello](https://github.com/guydmello)
 
-- 💬 Ask me about **Java, Python or even RainMan**
+- 💬 Ask me about **Java, Python, RainMan or even Guydle**
 
 - 📫 How to reach me **guyrdmello@gmail.com**
 
